@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 14 14:25:05 CST 2018
+log4j-1.2.12.jar>central=
+log4j-1.2.12.pom>central=
+log4j-1.2.12.pom>huaweicloud=
+log4j-1.2.12.jar>huaweicloud=

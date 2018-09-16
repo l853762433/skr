@@ -1,0 +1,8 @@
+package cn.mymall.service;
+
+import cn.mymall.pojo.TbItem;
+
+public interface ItmService {
+	
+	TbItem getItemById(long itemId);
+}

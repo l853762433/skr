@@ -1,0 +1,14 @@
+package cn.mymall.service.impl;
+
+import cn.mymall.pojo.TbItem;
+import cn.mymall.service.ItemService;
+
+public class ItemServiceImpl implements ItemService {
+
+	@Override
+	public TbItem getItemById(long itemId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

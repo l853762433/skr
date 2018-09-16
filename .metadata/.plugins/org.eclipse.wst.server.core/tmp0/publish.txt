@@ -1,0 +1,8 @@
+#Tomcat publish data
+#Sat Sep 15 11:56:14 CST 2018
+org.eclipse.jst.j2ee.server\:my-common=WEB-INF/lib/my-common-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:my-manager-dao=WEB-INF/lib/my-manager-dao-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:my-manager-interface=WEB-INF/lib/my-manager-interface-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\\u6691\u671F\u5B9E\u8BAD\\Shopping\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=WEB-INF/lib/spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:my-manager-service=WEB-INF/lib/my-manager-service-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:my-manager-pojo=WEB-INF/lib/my-manager-pojo-0.0.1-SNAPSHOT.jar

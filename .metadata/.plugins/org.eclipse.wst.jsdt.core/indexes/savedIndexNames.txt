@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\ส๎ฦฺสตัต\Shopping\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+631089575.index
+2617809622.index
+3545383054.index
+244015335.index
+3570229447.index
+455113094.index
